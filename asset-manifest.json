@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.fd4675ca.css",
+    "main.js": "/static/js/main.e4807a9f.js",
+    "static/media/temuriylar.png": "/static/media/temuriylar.78545d8677ae9a920ada.png",
+    "static/media/image 2.png": "/static/media/image 2.8280b7c6602f9eb108b8.png",
+    "index.html": "/index.html",
+    "main.fd4675ca.css.map": "/static/css/main.fd4675ca.css.map",
+    "main.e4807a9f.js.map": "/static/js/main.e4807a9f.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.fd4675ca.css",
+    "static/js/main.e4807a9f.js"
+  ]
+}
